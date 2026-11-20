@@ -19,6 +19,7 @@ Building scalable web platforms, AI-driven tools, and distributed architectures.
 [GitHub](https://github.com/megatron144) · [LinkedIn](https://linkedin.com/in/your-username) · [LeetCode](https://leetcode.com/megatron144) · [Codeforces](https://codeforces.com/profile) · [Email](mailto:adityarajj6811@example.com)
 
 ---
+Tech Stack
 
 ### Tech Stack
 - **Languages:** C++, JavaScript, TypeScript, HTML/CSS
@@ -26,16 +27,7 @@ Building scalable web platforms, AI-driven tools, and distributed architectures.
 - **Core Concepts:** Data Structures & Algorithms, Distributed Systems, System Design, Low-Level Optimization
 - **Tools & Platforms:** Git, GitHub, Linux
 
-Tech Stack
 
-Tech Stack
-
-Languages: C++, JavaScript, TypeScript, Python, HTML/CSS, SQL
-Backend & Systems: Node.js, Express.js, REST APIs, WebSockets, Distributed Systems, Low-Level Optimization
-Frontend: React.js, Next.js, Tailwind CSS
-Databases & Caching: PostgreSQL, MongoDB, Redis
-Developer Tools & Infrastructure: Git, GitHub, Docker, Linux, Postman
-Core Competencies: Data Structures & Algorithms, Scalable System Design, AI Agents & Tool-Calling
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=megatron144&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
