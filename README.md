@@ -5,15 +5,14 @@ Building scalable web platforms, AI-driven tools, and distributed architectures.
 ---
 
 ### About
-<sub>
+<small>
 💻 Full-stack developer with a strong focus on backend engineering & distributed systems<br>
 🎓 B.Tech in Electronics & Communication Engineering, IIITT<br>
 🏆 LeetCode Guardian (top 0.2% globally) | Codeforces Expert<br>
 🌱 Deep-diving into system design, low-level optimizations & modern web frameworks<br>
 🔭 Currently building AI-driven platforms, developer tools & an intelligent task manager<br>
 🤝 Open to collaborating on open-source dev tools, interactive web apps & system design
-</sub>
----
+</small>
 
 ### Connect
 [GitHub](https://github.com/megatron144) · [LinkedIn](https://linkedin.com/in/your-username) · [LeetCode](https://leetcode.com/megatron144) · [Codeforces](https://codeforces.com/profile) · [Email](mailto:adityarajj6811@example.com)
